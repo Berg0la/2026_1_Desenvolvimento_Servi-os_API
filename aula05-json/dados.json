@@ -1,0 +1,15 @@
+{
+    "nome" : "Kawasaki ZX-4R",
+    "hp" : 77,
+    "valor" : 59.990,
+    "fabricante" : "Kawasaki KHI",
+    "usada" : true,
+    "especialidade" : ["Dia a Dia", "TrackDay"],
+    "dono" : {"nome" : "Robert", "idade" : 24},
+    "pneus" : [
+        {"fabricante" : "Pirelli", "posição" : "Dianteiro", "medida" : "120/70"},
+        {"fabricante" : "Pirelli", "posição" : "Traseiro", "medida" : "160/60"}
+    ],
+    "vendedor" : null
+     
+}
